@@ -13,11 +13,12 @@ Using the bot
 -------------
 
 Place a file in your $HOME: **bot.yml** with the format:
-  `twitter_user: "account"`
-  `twitter_pass: "password"`
-  `jabber_acct: "jabber user (user@gmail.com works fine)"`
-  `jabber_pass: "jabber/gmail password"`
 
+    twitter_user: "account"
+    twitter_pass: "password"
+    jabber_acct: "jabber user (user@gmail.com works fine)"
+    jabber_pass: "jabber/gmail password"
+    
 
 Registering the jabber account with twitter
 -------------------------------------------
@@ -33,4 +34,4 @@ Registering the jabber account with twitter
 Contributors
 ------------
 
-* Erik [Kastner](http://metaatem.net) &ltkastner@gmail.com&gt;
+* Erik [Kastner](http://metaatem.net) &lt;kastner@gmail.com&gt;
