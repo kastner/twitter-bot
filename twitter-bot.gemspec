@@ -9,19 +9,19 @@ Gem::Specification.new do |s|
   s.specification_version = 2 if s.respond_to? :specification_version=
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
-  s.authors = [""]
+  s.authors = ["Erik Kastner"]
   s.date = %q{2008-04-29}
-  s.description = %q{}
+  s.description = %q{A real-time twitter bot that uses Jabber (XMPP)}
   s.email = %q{}
   s.extra_rdoc_files = ["CHANGELOG", "lib/twitter_bot.rb", "LICENSE", "README", "README.markdown"]
   s.files = ["CHANGELOG", "examples/my_bot.rb", "lib/twitter_bot.rb", "LICENSE", "Manifest", "README", "README.markdown", "site/index.html", "twitter-bot.gemspec"]
   s.has_rdoc = true
-  s.homepage = %q{}
+  s.homepage = %q{http://github.com/kastner/twitter-bot/}
   s.rdoc_options = ["--line-numbers", "--inline-source", "--title", "Twitter-bot", "--main", "README"]
   s.require_paths = ["lib"]
   s.rubyforge_project = %q{twitter-bot}
   s.rubygems_version = %q{1.0.1}
-  s.summary = %q{}
+  s.summary = %q{A real-time twitter bot that uses Jabber (XMPP)}
 end
 
 
